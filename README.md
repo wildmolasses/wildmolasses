@@ -1,7 +1,7 @@
 ```
 Job:
-- EVM governance smart contracts at @scopelift
-- Ops Lead, Optimism Developer Advisory Board
+- EVM smart contracts at @scopelift
+- Board lead, Optimism Developer Advisory Board
 
 Interested in:
 - public goods, free rider problem
